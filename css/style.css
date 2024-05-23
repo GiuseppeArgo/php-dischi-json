@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+/* body */
+.ms_bg {
+    background-color: #1d2d3c;
+}
+
+/* header */
+header {
+    background-color: #06131f;
+}
+
+.logo {
+    width: 3%;
+    margin: 10px 0 10px 100px;
+
+}
+
+/* cards */
+
+.ms_bg_card {
+    background-color: #112030;
+}
+
+img {
+    width: 100%;
+}
